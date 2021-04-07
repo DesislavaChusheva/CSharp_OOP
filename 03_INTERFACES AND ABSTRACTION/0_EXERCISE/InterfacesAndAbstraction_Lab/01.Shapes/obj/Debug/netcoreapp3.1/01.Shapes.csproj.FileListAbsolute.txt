@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.genruntimeconfig.cache

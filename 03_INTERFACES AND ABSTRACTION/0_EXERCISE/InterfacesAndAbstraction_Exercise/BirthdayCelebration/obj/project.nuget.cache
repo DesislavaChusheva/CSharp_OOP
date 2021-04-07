@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9iQrh2LSN5w/sl5lYSAm/dUh95BPAPmOwdGjv6tIUr2IuN4FkKR9mGpDcPC6eOXn5ZuS/bgAU/YRvXtzHy6PA==",
+  "success": true,
+  "projectFilePath": "G:\\G#(LaCie - NTFS 1)\\05_ТУТОРИАЛИ\\С#\\2_ADVANCED&OOP\\01_OOP\\03_INTERFACES AND ABSTRACTION\\0_EXERCISE\\InterfacesAndAbstraction_Exercise\\BirthdayCelebration\\BirthdayCelebration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

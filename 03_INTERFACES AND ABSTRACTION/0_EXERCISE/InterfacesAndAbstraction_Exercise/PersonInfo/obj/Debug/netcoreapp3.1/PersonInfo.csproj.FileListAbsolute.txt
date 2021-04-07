@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

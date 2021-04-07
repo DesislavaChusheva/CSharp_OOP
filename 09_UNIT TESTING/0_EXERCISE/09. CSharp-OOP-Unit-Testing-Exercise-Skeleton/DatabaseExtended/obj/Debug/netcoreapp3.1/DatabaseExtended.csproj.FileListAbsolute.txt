@@ -1,0 +1,9 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb

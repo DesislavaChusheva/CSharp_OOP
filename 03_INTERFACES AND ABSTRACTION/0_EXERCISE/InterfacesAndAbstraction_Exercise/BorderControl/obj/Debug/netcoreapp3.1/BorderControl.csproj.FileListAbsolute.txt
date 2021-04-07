@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

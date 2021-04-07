@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

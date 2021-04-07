@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\08_REFLECTION AND ATTRIBUTES\0_EXERCISE\ReflectionAndAttributes_Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache

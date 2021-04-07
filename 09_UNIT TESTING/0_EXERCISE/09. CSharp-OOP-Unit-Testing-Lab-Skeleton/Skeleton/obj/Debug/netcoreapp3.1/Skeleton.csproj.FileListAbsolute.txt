@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

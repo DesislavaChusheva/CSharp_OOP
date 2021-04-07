@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\03_INTERFACES AND ABSTRACTION\0_EXERCISE\InterfacesAndAbstraction_Exercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache

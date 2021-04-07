@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\01_INHERITANCE\0_EXERCISE\01. Person_Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

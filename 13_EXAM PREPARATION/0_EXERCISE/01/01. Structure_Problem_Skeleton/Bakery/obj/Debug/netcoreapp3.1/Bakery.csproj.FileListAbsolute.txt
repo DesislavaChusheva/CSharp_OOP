@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache

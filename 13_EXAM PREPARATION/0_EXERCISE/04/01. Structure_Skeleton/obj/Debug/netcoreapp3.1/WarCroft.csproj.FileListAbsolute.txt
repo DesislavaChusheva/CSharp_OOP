@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\WarCroft.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\13_EXAM PREPARATION\0_EXERCISE\04\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache

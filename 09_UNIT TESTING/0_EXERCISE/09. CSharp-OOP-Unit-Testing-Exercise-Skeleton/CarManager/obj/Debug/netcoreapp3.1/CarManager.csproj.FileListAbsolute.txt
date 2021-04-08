@@ -1,0 +1,9 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

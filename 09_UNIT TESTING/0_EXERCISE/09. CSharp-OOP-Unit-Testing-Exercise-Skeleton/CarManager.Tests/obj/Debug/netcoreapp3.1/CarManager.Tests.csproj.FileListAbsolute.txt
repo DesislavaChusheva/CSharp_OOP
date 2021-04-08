@@ -93,3 +93,5 @@ G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TE
 G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.dll
 G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.pdb
 G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.genruntimeconfig.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\09_UNIT TESTING\0_EXERCISE\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.pdb

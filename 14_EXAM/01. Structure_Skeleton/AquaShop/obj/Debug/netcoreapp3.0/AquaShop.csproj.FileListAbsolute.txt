@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\2_ADVANCED&OOP\01_OOP\14_EXAM\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

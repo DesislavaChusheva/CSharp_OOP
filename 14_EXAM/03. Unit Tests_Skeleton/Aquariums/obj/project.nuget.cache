@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEOlMXTesLyYjnRASH0YiHjMMrdsGMekCdKssPN+lPXf0BER4JgTz3Pkkfy69sUQHAK4BLuQJlTM2n6UPGJ+IA==",
+  "success": true,
+  "projectFilePath": "G:\\G#(LaCie - NTFS 1)\\05_ТУТОРИАЛИ\\С#\\2_ADVANCED&OOP\\01_OOP\\14_EXAM\\03. Unit Tests_Skeleton\\Aquariums\\Aquariums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
